@@ -1,0 +1,5 @@
+okay now
+it should ask fisrt user name and save there data for next use for ex if thet enter fixed income or bank data or monthly expense one time it should be saved 
+for now no login neededwhen app opens show saved user and add user option
+for save user make it as button so once they click it should open previous data as said above
+and backgroud button is  is not visible when min size ref pics and keep claclate button last and backgroud should change imidiately once choosen ,its asking for restart and it not changing also

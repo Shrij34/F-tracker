@@ -1,2 +1,2 @@
 # F-tracker
-individual finance tracker app
+#Individual finance tracker app
